@@ -1,24 +1,24 @@
 import React from "react";
-import { AiFillFacebook, AiOutlineInstagram, AiOutlineTwitter } from 'react-icons/ai';
+import { AiFillFacebook, AiOutlineGithub, AiOutlineInstagram, AiOutlineLinkedin, AiOutlineTwitter } from 'react-icons/ai';
 
 
 const Footer = () => {
   return (
   <div className="footer-container">
-    <p>&copy; {new Date().getFullYear()} BaiMi Store </p> 
+    <p>&copy; {new Date().getFullYear()} Delly HubStore </p> 
     <p>All rights reserved!</p>
     <p className="icons">
-      <a href="https://tinyurl.com/5cuupvkj" target="_blank" className="social-media">  
-      <AiOutlineInstagram />
+      <a href="" target="_blank" className="social-media">  
+      <AiOutlineLinkedin />
       </a>
-      <a href="https://tinyurl.com/5cuupvkj" target="_blank" className="social-media">
+      <a href="" target="_blank" className="social-media">
       <AiOutlineTwitter />
       </a>
-      <a href="https://tinyurl.com/5cuupvkj" target="_blank" className="social-media">
-      <AiFillFacebook />
+      <a href="" target="_blank" className="social-media">
+      <AiOutlineGithub />
       </a>
     </p>
-    <p>created by <a href="https://tinyurl.com/5cuupvkj" target="_blank">KayangeInc</a></p>
+    <p>created by <a href="" target="_blank">PHLEODELLY</a></p>
     </div>
   );
 };
