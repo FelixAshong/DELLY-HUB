@@ -12,7 +12,7 @@ return (
           width={250}
         />
         <p className="poduct-name">{ name}</p>
-        <p className="poduct-price">${ price}</p>
+        <p className="poduct-price">₵{ price}</p>
       </div>
     </Link>
     </div>
