@@ -2,6 +2,11 @@
 
 Welcome to Delly HubStore! This is a Next.js e-commerce application powered by Sanity.io and integrated with Stripe for payment processing.
 
+![Delly HubStore Screenshot 1](./Images/localhost_3000_%20(2).png)
+![Delly HubStore Screenshot 2](./Images/Macbook-Air-localhost%20(1).png)
+![Delly HubStore Screenshot 3](./Images/Macbook-Air-localhost.png)
+
+
 [![Made with React](https://img.shields.io/badge/Made_with-React-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Powered by Next.js](https://img.shields.io/badge/Powered_by-Next.js-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![CMS: Sanity.io](https://img.shields.io/badge/CMS-Sanity.io-purple?style=for-the-badge&logo=sanity)](https://www.sanity.io/)
