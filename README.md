@@ -42,9 +42,6 @@ To get started with Delly HubStore, follow these steps:
 
 Contributions are welcome! If you'd like to contribute to Delly HubStore, please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
